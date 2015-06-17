@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jscience">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jscience.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

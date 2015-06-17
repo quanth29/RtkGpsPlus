@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proguardannotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/proguardannotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
